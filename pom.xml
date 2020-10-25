@@ -7,6 +7,109 @@
     <groupId>org.dhbw</groupId>
     <artifactId>Opti_Home_Shop</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
 
+
+    <dependency>
+
+    <groupId>org.hibernate</groupId>
+
+    <artifactId>hibernate-core</artifactId>
+
+    <version>5.4.10.Final</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>mysql</groupId>
+
+    <artifactId>mysql-connector-java</artifactId>
+
+    <version>8.0.15</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.hibernate.validator</groupId>
+
+    <artifactId>hibernate-validator</artifactId>
+
+    <version>6.1.0.Final</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>javax.el</groupId>
+
+    <artifactId>javax.el-api</artifactId>
+
+    <version>3.0.0</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.glassfish</groupId>
+
+    <artifactId>jakarta.el</artifactId>
+
+    <version>3.0.3</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.hibernate.validator</groupId>
+
+    <artifactId>hibernate-validator-cdi</artifactId>
+
+    <version>6.1.0.Final</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.apache.logging.log4j</groupId>
+
+    <artifactId>log4j-api</artifactId>
+
+    <version>2.13.0</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.apache.logging.log4j</groupId>
+
+    <artifactId>log4j-core</artifactId>
+
+    <version>2.13.0</version>
+
+</dependency>
+
+
+    <dependency>
+
+    <groupId>org.junit.jupiter</groupId>
+
+    <artifactId>junit-jupiter-engine</artifactId>
+
+    <version>5.1.0</version>
+
+    <scope>test</scope>
+
+</dependency>
+
+</dependencies>
 
 </project>
